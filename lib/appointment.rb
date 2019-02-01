@@ -1,7 +1,7 @@
 class Appointment
   @@all = []
 
-  def initialize(doctor, patient)
+  def initialize(patient, doctor, date)
     @@all << self
   end
 
