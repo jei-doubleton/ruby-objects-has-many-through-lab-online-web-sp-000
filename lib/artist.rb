@@ -22,6 +22,7 @@ class Artist
   end
 
   def genres
+    #iterates through artist's songs (via songs) and collects genre of each song
     
   end
 end
